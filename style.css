@@ -12,6 +12,11 @@ body::-webkit-scrollbar{
 }
 
 @media screen and (min-width:1024px) {
+
+    #trmsh {
+        position: relative;
+        bottom: 18vh;
+    }
     
 .top{
     display: flex;
@@ -1350,7 +1355,7 @@ mark {
 
     #trmsh {
         position: relative;
-        top: 0;
+        bottom: 5vh;
     }
     
     .contact_us > .nr_telefon {
@@ -1374,7 +1379,7 @@ mark {
     .contact_us > .formular {
         position: relative;
         left: 5vh;
-        bottom: 0;
+        bottom: 5vh;
         width: 50vh;
         height: auto;
     }
