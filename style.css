@@ -771,7 +771,7 @@ mark {
     .top > .categorys {
         top: 1.5vh;
         position: relative;
-        left: 30%;
+        left: 20%;
         display: flex;
         float: left;
         height: 100%;
@@ -779,13 +779,12 @@ mark {
     
     .top > .categorys > .selection {
         text-align: center;
-        margin-right: 1vh;
         color: #090909; 
         font-family: "Eczar", serif;
-        font-size: 1.2vh;
+        font-size: 1vh;
         font-weight: 600;
         font-style: normal;
-        width: auto;
+        width: 5.5vh;
         height: 64%;
     }
     
@@ -794,11 +793,10 @@ mark {
     }
     
     .top > img {
-        position: relative;
-        left: 75%;
-        top: 1vh;
-        width: 30px;
-        height: 30px;
+        margin-left: 3vh;
+        margin-top: 1vh;
+        width: 25px;
+        height: 25px;
     }
     
     .f-image {
