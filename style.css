@@ -1122,11 +1122,9 @@ mark {
         height: 42vh;
         width: auto;
         margin: 5vh auto 0 0 ;
+        background-color: red;
     }
 
-    .product:nth-child(7),:nth-child(8) {
-        height: 55vh;
-    }
     
     .items > .product > .hex {
         position: absolute;
