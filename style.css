@@ -1121,7 +1121,7 @@ mark {
         left: 1.5vh;
         height: 42vh;
         width: auto;
-        margin: 0 auto 0 0 ;
+        margin: 5vh auto 0 0 ;
     }
 
     .product:nth-child(7),:nth-child(8) {
